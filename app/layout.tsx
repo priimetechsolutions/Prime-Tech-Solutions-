@@ -70,6 +70,11 @@ export const metadata: Metadata = {
       'max-video-preview': -1,
     },
   },
+
+  other: {
+    'impact-site-verification':
+      '159784b5-1674-4752-9b63-e8db39f654e2',
+  },
 }
 
 export const viewport: Viewport = {
